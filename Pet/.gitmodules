@@ -1,6 +1,0 @@
-[submodule "sdn-app-v2"]
-	path = sdn-app-v2
-	url = git@controller.estinet.com:estinet-controller/sdn-app-v2.git
-[submodule "FlowTrie"]
-	path = FlowTrie
-	url = git@github.com:Andy17663/FlowTrie.git
