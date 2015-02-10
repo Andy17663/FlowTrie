@@ -1,0 +1,4 @@
+[submodule "Pet"]
+	path = Pet
+	url = git@github.com:Andy17663/Pet.git
+	branch = v1.2
